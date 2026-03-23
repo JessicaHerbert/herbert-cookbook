@@ -1,0 +1,39 @@
+---
+layout: base.njk
+title: Home
+---
+
+<header class="site-header">
+  <div class="tagline">Made with love...and some other shit</div>
+  <div class="recipe-count">{{ collections.recipes.length }} recipes</div>
+</header>
+
+<div class="search-bar">
+  <input type="text" id="search" placeholder="Search recipes..." autocomplete="off">
+</div>
+
+<div class="tag-filters" id="tagFilters">
+  <button class="tag-pill active" data-tag="all" data-color="0">all</button>
+  {%- for tag in collections.allTags -%}
+  <button class="tag-pill" data-tag="{{ tag }}" data-color="{{ tag | tagColorIndex }}">{{ tag }}</button>
+  {%- endfor -%}
+</div>
+
+<div class="recipe-list" id="recipeList">
+  {%- for recipe in collections.recipes -%}
+  <a href="{{ recipe.url }}" class="recipe-row" data-name="{{ recipe.data.name | lower }}" data-tags="{{ recipe.data.recipeTags | join(',') | lower }}" style="--row-accent: var(--accent-{{ ['pink','blue','purple'][recipe.data.recipeTags[0] | tagColorIndex] }})">
+    <span class="emoji">{{ recipe.templateContent | firstEmoji }}</span>
+    <div class="info">
+      <div class="recipe-name">{{ recipe.data.name }}</div>
+      {% if recipe.data.serves %}<div class="serves">Serves {{ recipe.data.serves }}</div>{% endif %}
+    </div>
+    <div class="tags">
+      {%- for tag in recipe.data.recipeTags -%}
+      <span class="tag" data-color="{{ tag | tagColorIndex }}">{{ tag }}</span>
+      {%- endfor -%}
+    </div>
+  </a>
+  {%- endfor -%}
+</div>
+
+<div class="no-results" id="noResults" style="display:none">No recipes found</div>

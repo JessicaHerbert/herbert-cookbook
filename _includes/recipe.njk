@@ -1,0 +1,40 @@
+---
+layout: base.njk
+---
+
+<div class="recipe-page">
+  <a href="/" class="back-link">&larr; back to cookbook</a>
+
+  <h1 class="recipe-title">{{ content | firstEmoji }} {{ name }}</h1>
+
+  <div class="recipe-tags" style="display:flex;gap:5px;margin-bottom:8px;">
+    {%- for tag in recipeTags -%}
+    <span class="tag" data-color="{{ tag | tagColorIndex }}">{{ tag }}</span>
+    {%- endfor -%}
+  </div>
+
+  <div class="recipe-meta">
+    {% if serves %}Serves {{ serves }} &bull; {% endif %}
+    <button class="share-link" onclick="shareRecipe()">share &#x1F517;</button>
+  </div>
+
+  {{ content | safe }}
+
+  {% if notes %}
+  <div class="recipe-notes">
+    <span class="notes-label">&#x1F4A1; Notes:</span> {{ notes }}
+  </div>
+  {% endif %}
+
+  {% if source %}
+  <div class="recipe-source">
+    &#x1F517; <a href="{{ source }}" target="_blank" rel="noopener">Original recipe</a>
+  </div>
+  {% endif %}
+
+  {% if photo %}
+  <img class="recipe-photo" src="/images/{{ photo }}" alt="{{ name }}" loading="lazy">
+  {% endif %}
+</div>
+
+<div class="share-toast" id="shareToast">Link copied!</div>
