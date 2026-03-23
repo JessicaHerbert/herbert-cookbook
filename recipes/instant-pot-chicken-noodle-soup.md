@@ -1,7 +1,6 @@
 ---
 name: Instant Pot Chicken Noodle Soup
 emoji: 🍜
-serves: 6
 recipeTags:
   - soups
   - instant pot
@@ -10,15 +9,15 @@ source: https://www.spendwithpennies.com/instant-pot-chicken-noodle-soup/
 
 ## Ingredients
 
-- 🧅 1 large onion, diced
-- 🫒 1 tbsp olive oil
-- 🍗 2 large boneless skinless chicken breasts (8 oz each)
-- 🥕 2 medium carrots, sliced (about 1 cup)
-- 🥬 2 ribs celery, sliced (about 1 cup)
-- 🌿 1 tbsp chopped fresh parsley
-- 🍃 1 bay leaf
-- 🥣 6 cups chicken broth or stock
-- 🍝 4 oz egg noodles (about 2 1/2 cups dry)
+- 🧅 2 large onions, diced
+- 🫒 2 tbsp olive oil
+- 🍗 4 large boneless skinless chicken breasts (8 oz each)
+- 🥕 4 medium carrots, sliced (about 2 cups)
+- 🥬 4 ribs celery, sliced (about 2 cups)
+- 🌿 2 tbsp chopped fresh parsley
+- 🍃 2 bay leaves
+- 🥣 12 cups chicken broth or stock
+- 🍝 8 oz egg noodles (about 5 cups dry)
 - 🧂 Salt and black pepper to taste
 
 ## Directions
