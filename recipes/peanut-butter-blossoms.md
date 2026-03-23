@@ -1,5 +1,6 @@
 ---
 name: Peanut Butter Blossoms
+emoji: 🥜
 recipeTags:
   - baking
 ---

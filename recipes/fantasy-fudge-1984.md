@@ -1,5 +1,6 @@
 ---
 name: Fantasy Fudge 1984
+emoji: 🍬
 recipeTags:
   - baking
 ---

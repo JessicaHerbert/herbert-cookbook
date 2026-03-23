@@ -1,5 +1,6 @@
 ---
 name: Garlic Butter
+emoji: 🧈
 recipeTags:
   - sides
 ---

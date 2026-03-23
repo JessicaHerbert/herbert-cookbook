@@ -1,5 +1,6 @@
 ---
 name: Instant Pot Chili
+emoji: 🌶️
 recipeTags:
   - soups
 ---

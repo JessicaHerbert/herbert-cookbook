@@ -1,5 +1,6 @@
 ---
 name: Crack Potatoes
+emoji: 🥔
 recipeTags:
   - sides
 ---

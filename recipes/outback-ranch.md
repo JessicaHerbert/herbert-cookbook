@@ -1,5 +1,6 @@
 ---
 name: Outback Ranch
+emoji: 🥗
 recipeTags:
   - mains
 ---

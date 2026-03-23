@@ -1,5 +1,6 @@
 ---
 name: "Creamy Chipotle Steak & Potatoes Meal Prep"
+emoji: 🥩
 recipeTags:
   - mealprep
 ---

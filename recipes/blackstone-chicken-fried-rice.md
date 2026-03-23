@@ -1,5 +1,6 @@
 ---
 name: Blackstone Chicken Fried Rice
+emoji: 🍚
 recipeTags:
   - mains
 ---

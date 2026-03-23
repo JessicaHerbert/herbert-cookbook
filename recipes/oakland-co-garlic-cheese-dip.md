@@ -1,5 +1,6 @@
 ---
 name: Oakland Co Garlic Cheese Dip
+emoji: 🧀
 recipeTags:
   - snacks
 ---

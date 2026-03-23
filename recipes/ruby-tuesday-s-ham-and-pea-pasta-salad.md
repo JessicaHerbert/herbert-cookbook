@@ -1,5 +1,6 @@
 ---
 name: "Ruby Tuesday's Ham and Pea Pasta Salad"
+emoji: 🥗
 recipeTags:
   - pasta
 ---

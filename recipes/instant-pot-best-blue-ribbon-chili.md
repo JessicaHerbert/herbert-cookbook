@@ -1,5 +1,6 @@
 ---
 name: Instant Pot Best Blue Ribbon Chili
+emoji: 🌶️
 recipeTags:
   - soups
 ---

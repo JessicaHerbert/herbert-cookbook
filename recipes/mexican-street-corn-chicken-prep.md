@@ -1,5 +1,6 @@
 ---
 name: Mexican Street Corn Chicken Prep
+emoji: 🌽
 serves: 4
 recipeTags:
   - mealprep

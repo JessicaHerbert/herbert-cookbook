@@ -1,5 +1,6 @@
 ---
 name: "Ham & White Bean Soup"
+emoji: 🍲
 recipeTags:
   - soups
 ---

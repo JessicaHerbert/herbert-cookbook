@@ -1,5 +1,6 @@
 ---
 name: Oakland Co Breadsticks
+emoji: 🥖
 recipeTags:
   - sides
 ---

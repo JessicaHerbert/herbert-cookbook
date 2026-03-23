@@ -1,5 +1,6 @@
 ---
 name: High Protein Chicken Crunch Wrap Supreme
+emoji: 🌯
 serves: 2 wraps
 recipeTags:
   - mealprep

@@ -1,5 +1,6 @@
 ---
 name: Instant Pot Ham, Potato and Pea Soup
+emoji: 🍲
 recipeTags:
   - soups
 ---

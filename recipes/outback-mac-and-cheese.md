@@ -1,5 +1,6 @@
 ---
 name: "Outback Mac & Cheese"
+emoji: 🧀
 recipeTags:
   - pasta
 ---

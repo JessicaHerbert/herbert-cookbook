@@ -1,5 +1,6 @@
 ---
 name: "Maw Maw's Chex Mix"
+emoji: 🥜
 recipeTags:
   - snacks
 ---

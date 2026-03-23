@@ -1,5 +1,6 @@
 ---
 name: Instant Pot Beef Barley Soup
+emoji: 🍲
 recipeTags:
   - soups
 ---

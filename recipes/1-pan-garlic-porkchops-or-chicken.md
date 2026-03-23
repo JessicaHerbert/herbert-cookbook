@@ -1,5 +1,6 @@
 ---
 name: 1 Pan Garlic Porkchops or Chicken
+emoji: 🍗
 recipeTags:
   - mains
 ---

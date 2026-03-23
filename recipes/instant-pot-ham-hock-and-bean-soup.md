@@ -1,5 +1,6 @@
 ---
 name: Instant Pot Ham Hock and Bean Soup
+emoji: 🍲
 recipeTags:
   - soups
 ---

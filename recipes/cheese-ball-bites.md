@@ -1,5 +1,6 @@
 ---
 name: Cheese Ball Bites
+emoji: 🧀
 recipeTags:
   - snacks
 ---

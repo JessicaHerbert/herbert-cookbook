@@ -1,5 +1,6 @@
 ---
 name: Chicken Bacon Ranch Casserole
+emoji: 🥘
 recipeTags:
   - mains
 ---

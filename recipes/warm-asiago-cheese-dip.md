@@ -1,5 +1,6 @@
 ---
 name: Warm Asiago Cheese Dip
+emoji: 🫕
 recipeTags:
   - snacks
 ---

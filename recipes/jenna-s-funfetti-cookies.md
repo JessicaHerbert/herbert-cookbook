@@ -1,5 +1,6 @@
 ---
 name: "Jenna's Funfetti cookies"
+emoji: 🎉
 recipeTags:
   - baking
 ---

@@ -1,5 +1,6 @@
 ---
 name: Buffalo Chicken Crunch Bowl
+emoji: 🌶️
 serves: 1
 recipeTags:
   - mealprep

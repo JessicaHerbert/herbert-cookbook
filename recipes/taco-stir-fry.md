@@ -1,5 +1,6 @@
 ---
 name: Taco Stir Fry
+emoji: 🌮
 recipeTags:
   - mains
 ---

@@ -23,7 +23,7 @@ permalink: /recipes/
 <div class="recipe-list" id="recipeList">
   {%- for recipe in collections.recipes -%}
   <a href="{{ recipe.url }}" class="recipe-row" data-name="{{ recipe.data.name | lower }}" data-tags="{{ recipe.data.recipeTags | join(',') | lower }}" style="--row-accent: var(--accent-{{ ['pink','blue','purple'][recipe.data.recipeTags[0] | tagColorIndex] }})">
-    <span class="emoji">{{ recipe.templateContent | firstEmoji }}</span>
+    <span class="emoji">{{ recipe.data.emoji or (recipe.templateContent | firstEmoji) }}</span>
     <div class="info">
       <div class="recipe-name">{{ recipe.data.name }}</div>
       {% if recipe.data.serves %}<div class="serves">Serves {{ recipe.data.serves }}</div>{% endif %}

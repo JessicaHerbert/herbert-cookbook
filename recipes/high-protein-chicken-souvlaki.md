@@ -1,5 +1,6 @@
 ---
 name: High Protein Chicken Souvlaki
+emoji: 🥙
 serves: 2 wraps
 recipeTags:
   - mains

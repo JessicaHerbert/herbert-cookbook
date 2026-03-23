@@ -1,5 +1,6 @@
 ---
 name: "Chicken & Sweet Potato Power Bowl"
+emoji: 🥗
 serves: 4
 recipeTags:
   - mains

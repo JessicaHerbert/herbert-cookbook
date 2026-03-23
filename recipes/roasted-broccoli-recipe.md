@@ -1,5 +1,6 @@
 ---
 name: Roasted Broccoli Recipe
+emoji: 🥦
 recipeTags:
   - sides
 ---

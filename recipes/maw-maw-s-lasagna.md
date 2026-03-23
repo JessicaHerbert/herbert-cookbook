@@ -1,5 +1,6 @@
 ---
 name: "Maw Maw's Lasagna"
+emoji: 🍝
 recipeTags:
   - pasta
 ---

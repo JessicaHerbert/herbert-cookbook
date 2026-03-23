@@ -1,5 +1,6 @@
 ---
 name: Holiday Pretzel Treats
+emoji: 🥨
 recipeTags:
   - baking
 ---

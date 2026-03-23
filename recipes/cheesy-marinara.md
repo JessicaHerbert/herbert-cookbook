@@ -1,5 +1,6 @@
 ---
 name: Cheesy Marinara
+emoji: 🍝
 recipeTags:
   - sides
 ---

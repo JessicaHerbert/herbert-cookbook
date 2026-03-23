@@ -1,5 +1,6 @@
 ---
 name: Air Fryer Rotisserie Chicken
+emoji: 🍗
 recipeTags:
   - mains
 ---

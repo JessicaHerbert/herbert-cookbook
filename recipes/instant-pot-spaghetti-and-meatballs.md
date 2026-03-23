@@ -1,5 +1,6 @@
 ---
 name: "Instant Pot Spaghetti & Meatballs"
+emoji: 🍝
 recipeTags:
   - pasta
 ---

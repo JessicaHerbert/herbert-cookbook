@@ -1,5 +1,6 @@
 ---
 name: Buckeye Dip
+emoji: 🍫
 recipeTags:
   - snacks
 ---

@@ -1,5 +1,6 @@
 ---
 name: INSTANT POT PASTA E FAGIOLI
+emoji: 🍝
 recipeTags:
   - soups
 ---
