@@ -3,7 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if title %}{{ title }} - {% endif %}Made with love...and some other shit</title>
+  {% set pageTitle = name or (title if title != "Home") %}
+  <title>{% if pageTitle %}{{ pageTitle }} - {% endif %}The Herbert Cookbook</title>
+  <meta name="description" content="Herbert family approved - straight from our kitchen to yours">
+  <meta property="og:title" content="{% if pageTitle %}{{ pageTitle }} - {% endif %}The Herbert Cookbook">
+  <meta property="og:description" content="Made with love...and some other shit">
+  <meta property="og:site_name" content="The Herbert Cookbook">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
