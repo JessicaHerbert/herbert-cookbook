@@ -286,6 +286,7 @@ body {
 /* Ingredients list */
 .ingredients-list {
   list-style: none;
+  padding-left: 0;
   font-family: var(--mono);
   font-size: 15px;
   color: var(--text-body);
@@ -295,6 +296,7 @@ body {
 /* Directions list */
 .directions-list {
   list-style: none;
+  padding-left: 0;
   font-family: var(--mono);
   font-size: 15px;
   color: var(--text-body);
