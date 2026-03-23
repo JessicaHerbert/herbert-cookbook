@@ -1,5 +1,7 @@
 ---
-name: "Home Chef Mac & Cheese"
+name: "Homemade Spicy Mac & Cheese"
+featured: true
+emoji: 🧀
 recipeTags:
   - mains
 ---

@@ -17,13 +17,12 @@ recipeTags:
 
 ## Directions
 
-1. Ruby Tuesday’s Ham and Pea Pasta Salad
-2. 1. Cook pasta according to package directions
-3. 2. Drain well and place in a large mixing bowl
-4. 3. In a separate bowl, whisk ranch dressing, mayonnaise and seasoning salt
-5. 4. Toss dressing with the pasta to fully cover
-6. 5. Stir in ham, peas, cheese and bell pepper
-7. 6. Taste and add more seasoning salt if needed
-8. 7. Refrigerate for at least 4 hours
-9. Makes 8-10 side dish servings
+1. Cook pasta according to package directions
+2. Drain well and place in a large mixing bowl
+3. In a separate bowl, whisk ranch dressing, mayonnaise and seasoning salt
+4. Toss dressing with the pasta to fully cover
+5. Stir in ham, peas, cheese and bell pepper
+6. Taste and add more seasoning salt if needed
+7. Refrigerate for at least 4 hours
+8. Makes 8-10 side dish servings
 

@@ -1,5 +1,7 @@
 ---
 name: The Best Sloppy Joes EVER
+featured: true
+emoji: 🍔
 recipeTags:
   - mains
 ---
@@ -15,12 +17,12 @@ recipeTags:
 
 ## Directions
 
-1. 1. Brown beef in large pot, drain
-2. 2. Add white onion to bottom of pan, sauté until almost translucent in half the pan (browned beef in other half)
-3. 3. Add full 20oz bottle of ketchup, mix well - more to taste. Make sure beef is well covered
-4. 4. Add brown sugar, mix well
-5. 5. Add Worcestershire sauce for color and to taste.
-6. 5. Add tabasco sauce
-7. 6. Allow to simmer for about 10-15 minutes adding additional tobacco or brown sugar to taste.
+1. Brown beef in large pot, drain
+2. Add white onion to bottom of pan, sauté until almost translucent in half the pan (browned beef in other half)
+3. Add full 20oz bottle of ketchup, mix well - more to taste. Make sure beef is well covered
+4. Add brown sugar, mix well
+5. Add Worcestershire sauce for color and to taste.
+6. Add tabasco sauce
+7. Allow to simmer for about 10-15 minutes adding additional tobacco or brown sugar to taste.
 8. Serve hot or freeze
 

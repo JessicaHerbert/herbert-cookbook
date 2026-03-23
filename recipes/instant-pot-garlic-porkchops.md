@@ -1,5 +1,7 @@
 ---
 name: Instant Pot Garlic Porkchops
+featured: true
+emoji: 🥩
 recipeTags:
   - mains
 ---

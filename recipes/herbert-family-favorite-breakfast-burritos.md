@@ -1,5 +1,7 @@
 ---
 name: Herbert Family Favorite Breakfast Burritos
+featured: true
+emoji: 🌯
 recipeTags:
   - mains
 ---
@@ -21,17 +23,17 @@ recipeTags:
 
 ## Directions
 
-1. 1. Brown sausage in frying pan
-2. 2. Remove sausage from pan, leave grease
-3. 3. Add mixed eggs to scramble in the same pan
-4. 4. Add previously browned sausage back to scrambled eggs, mix
-5. 5. Add jar of salsa to egg and sausage mix
-6. 6. Add shredded cheese, mix well
-7. 7. Allow to sit for about 2 minutes, mixing frequently to warm
-8. 8. Microwave tortillas 3 at a time for 30 seconds to soften (10 seconds per tortilla)
-9. 9. Lay velveeta slice on warmed tortilla and top with ¼ cup egg mixture on top of cheese slice
-10. 10. Roll into burrito
-11. 11. Allow burritos to freeze in a pan for about 2 hours
-12. 12. Remove from freezer and wrap individually in foil.
-13. 13. Store in freezer for up to 8 weeks
+1. Brown sausage in frying pan
+2. Remove sausage from pan, leave grease
+3. Add mixed eggs to scramble in the same pan
+4. Add previously browned sausage back to scrambled eggs, mix
+5. Add jar of salsa to egg and sausage mix
+6. Add shredded cheese, mix well
+7. Allow to sit for about 2 minutes, mixing frequently to warm
+8. Microwave tortillas 3 at a time for 30 seconds to soften (10 seconds per tortilla)
+9. Lay velveeta slice on warmed tortilla and top with ¼ cup egg mixture on top of cheese slice
+10. Roll into burrito
+11. Allow burritos to freeze in a pan for about 2 hours
+12. Remove from freezer and wrap individually in foil.
+13. Store in freezer for up to 8 weeks
 

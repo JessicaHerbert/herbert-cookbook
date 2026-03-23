@@ -39,6 +39,7 @@ body {
   font-family: 'Dancing Script', cursive;
   font-size: 22px;
   font-weight: 700;
+  text-decoration: none;
   background: linear-gradient(90deg, var(--accent-pink), var(--accent-purple), var(--accent-blue));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -374,4 +375,111 @@ body {
   color: var(--text-muted);
   padding: 40px 0;
   font-size: 14px;
+}
+
+/* === Landing Page === */
+.landing {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+
+.landing-hero {
+  text-align: center;
+  padding: 60px 0 40px;
+}
+
+.landing-tagline {
+  font-size: 32px;
+}
+
+.landing-subtitle {
+  font-family: var(--mono);
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-top: 12px;
+  letter-spacing: 0.5px;
+}
+
+.landing-section {
+  margin-bottom: 32px;
+}
+
+.landing-section-title {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.featured-card {
+  background: var(--surface);
+  border: 1px solid color-mix(in srgb, var(--card-accent, var(--accent-pink)) 25%, transparent);
+  border-top: 3px solid var(--card-accent, var(--accent-pink));
+  border-radius: 10px;
+  padding: 20px 16px;
+  text-decoration: none;
+  color: var(--text);
+  text-align: center;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.featured-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px color-mix(in srgb, var(--card-accent, var(--accent-pink)) 20%, transparent);
+  background: color-mix(in srgb, var(--card-accent, var(--accent-pink)) 5%, var(--surface));
+}
+
+.featured-emoji {
+  font-size: 36px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.featured-name {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.featured-subtitle {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.featured-tags {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.landing-cta {
+  text-align: center;
+  padding-top: 16px;
+}
+
+.browse-all-btn {
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(90deg, var(--accent-pink), var(--accent-purple), var(--accent-blue));
+  transition: opacity 0.2s, transform 0.15s;
+}
+
+.browse-all-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
 }

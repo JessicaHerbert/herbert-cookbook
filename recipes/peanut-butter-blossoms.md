@@ -19,8 +19,8 @@ recipeTags:
 
 ## Directions
 
-1. 1.  Heat oven to 375°F. In large bowl, beat 1/2 cup granulated sugar, the brown sugar, peanut butter, butter and egg with electric mixer on medium speed, or mix with spoon, until well blended. Stir in flour, baking soda and baking powder until dough forms.
-2. 2.  Shape dough into 1-inch balls; roll in additional granulated sugar. On ungreased cookie sheets, place about 2 inches apart.
-3. 3.  Bake 8 to 10 minutes or until edges are light golden brown.
-4. 4.  Immediately press 1 milk chocolate candy in center of each cookie. Remove from cookie sheets to cooling rack.
+1. Heat oven to 375°F. In large bowl, beat 1/2 cup granulated sugar, the brown sugar, peanut butter, butter and egg with electric mixer on medium speed, or mix with spoon, until well blended. Stir in flour, baking soda and baking powder until dough forms.
+2. Shape dough into 1-inch balls; roll in additional granulated sugar. On ungreased cookie sheets, place about 2 inches apart.
+3. Bake 8 to 10 minutes or until edges are light golden brown.
+4. Immediately press 1 milk chocolate candy in center of each cookie. Remove from cookie sheets to cooling rack.
 

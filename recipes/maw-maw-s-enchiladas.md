@@ -1,5 +1,7 @@
 ---
 name: "Maw Maw's Enchiladas"
+featured: true
+emoji: 🫔
 recipeTags:
   - mains
 ---

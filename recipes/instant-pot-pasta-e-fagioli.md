@@ -25,15 +25,15 @@ recipeTags:
 
 ## Directions
 
-1. 1.  Preheat unit on sauté.
-2. 2.  Add the sausage and cook until done.
-3. 3.  Add the onion, celery, tomatoes, carrots, beef stock, crushed tomatoes, oregano, basil, thyme and salt.
-4. 4.  Stir in the uncooked pasta and place the lid on the unit into the locked position.
-5. 5.  Turn the steam release valve to sealing.
-6. 6.  Press the keep warm/cancel button to reset the unit.
-7. 7.  Press the manual button and adjust the time to 7 minutes.
-8. 8.  When the unit has finished cooking and the time has counted down to zero, carefully release the steam and remove the lid.
-9. 9.  Stir in the beans and fresh basil.
-10. 10. Taste for seasoning and add salt if needed.
-11. 11. Serve hot with freshly grated parmesan for garnish.
+1. Preheat unit on sauté.
+2. Add the sausage and cook until done.
+3. Add the onion, celery, tomatoes, carrots, beef stock, crushed tomatoes, oregano, basil, thyme and salt.
+4. Stir in the uncooked pasta and place the lid on the unit into the locked position.
+5. Turn the steam release valve to sealing.
+6. Press the keep warm/cancel button to reset the unit.
+7. Press the manual button and adjust the time to 7 minutes.
+8. When the unit has finished cooking and the time has counted down to zero, carefully release the steam and remove the lid.
+9. Stir in the beans and fresh basil.
+10. Taste for seasoning and add salt if needed.
+11. Serve hot with freshly grated parmesan for garnish.
 

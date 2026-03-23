@@ -1,5 +1,7 @@
 ---
 name: Banana Bread
+featured: true
+emoji: 🍌
 recipeTags:
   - baking
 ---

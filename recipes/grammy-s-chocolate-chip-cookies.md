@@ -1,5 +1,7 @@
 ---
 name: "Grammy's Chocolate Chip Cookies"
+featured: true
+emoji: 🍪
 recipeTags:
   - baking
 ---

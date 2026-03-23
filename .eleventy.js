@@ -11,6 +11,13 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // Create featured recipes collection
+  eleventyConfig.addCollection("featured", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("recipes/*.md")
+      .filter(item => item.data.featured === true)
+      .sort((a, b) => a.data.name.localeCompare(b.data.name));
+  });
+
   // Create a collection of all unique tags across recipes
   eleventyConfig.addCollection("allTags", function(collectionApi) {
     const tagSet = new Set();

@@ -1,5 +1,7 @@
 ---
 name: No Bake Cookies - OG Recipe
+featured: true
+emoji: 🍫
 recipeTags:
   - baking
 ---

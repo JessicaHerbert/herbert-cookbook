@@ -1,5 +1,7 @@
 ---
 name: Instapot Roast
+featured: true
+emoji: 🍖
 recipeTags:
   - mains
 ---
